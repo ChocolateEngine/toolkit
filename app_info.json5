@@ -1,0 +1,32 @@
+{
+	"name":        "toolkit",
+	"windowTitle": "Chocolate Engine Toolkit", // will probably remove this
+	
+	"searchPaths":
+	{
+		// "write": "$app_path$",
+
+		"binPaths":
+		[
+			"$app_path$/bin",
+			"$root_path$/bin",
+        ],
+
+		"paths":
+		[
+			"$app_path$",
+			"$root_path$/core",
+		],
+
+		"sourceAssets":
+		[
+			"$app_path$",
+			"$root_path$/core",
+			"E:/sourceengine/vmf2obj",
+		],
+
+		// this kinda sucks
+		// "projectsPath": "",
+	}
+}
+
